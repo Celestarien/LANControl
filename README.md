@@ -29,7 +29,7 @@ Différents outils sont utilisés dans le cadre de ce projet :
 Architecture réseau
 ===================
 
-![image-20210429162145646](C:\Users\Anthony\AppData\Roaming\Typora\typora-user-images\image-20210429162145646.png)
+![alt tag](https://www.casimages.com/i/210429043923157915.png.html)
 
 *Schéma 1 : Cartographie du réseau LANControl*
 
